@@ -6,7 +6,7 @@
 
 ## Fork the Repo
 
-[Fork the repo][https://github.com/monitoringsucks/metrics-catalog/fork].
+[Fork the repo](https://github.com/monitoringsucks/metrics-catalog/fork).
 
 ```
 $ git clone https://github.com/<username>/metrics-catalog.git
